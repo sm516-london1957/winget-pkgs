@@ -3,9 +3,9 @@ PackageIdentifier: sm516.BRO
 PackageVersion: 1.0.0
 PackageLocale: ja-JP
 Publisher: sm516
-PublisherUrl: https://github.com/79takahashi/BRO-Base
+PublisherUrl: https://github.com/sm516-london1957/BRO
 PackageName: BRO
-PackageUrl: https://github.com/79takahashi/BRO-Base
+PackageUrl: https://github.com/sm516-london1957/BRO
 ShortDescription: Neon Table styleの対戦ゲーム「BRO」
 Description: 日本語フォントと効果音を同梱した、raylib製の対戦ゲームです。
 License: Proprietary
